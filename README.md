@@ -18,7 +18,7 @@ na pytanie który gracz wygra grę jeżeli obaj gracze grają optymalnie. Zaimpl
 >> 0 2 0 1   
 >> 0 0 2 0  
 
-Generuje wszystkie plansze gdzie 1 to piony gracza nr 1, 2 to piony gracza nr 2 a 0 to puste miejsca** 
+Generuje wszystkie plansze gdzie 1 to piony gracza nr 1, 2 to piony gracza nr 2 a 0 to puste miejsca.
 
 > #### **SOLVE_GAME_STATE 4 4 3 1 1 2 0 1 0 1 0 2 0 2 0 1 0 0 2 0**  
 Generuje możliwe ruchy do odcięcia i zwraca odpowiedź na pytanie - który gracz wygrywa daną planszę.  
