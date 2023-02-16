@@ -3,7 +3,7 @@
 ***Tic Tac Toe NMK Solver*** jest programem rozwiązującym plansze do kółko i krzyżyk w dowolnym etapie gry. 
 Program pozwala na wygenerowanie wszystkich możliwych ruchów, razem z odcięciem czyli w momencie
 gdy znajdzie ruch wygrywający przestaje generować plansze. Kolejną funkcjonalnością jest odpowiadanie
-na pytanie któy gracz wygra grę jeżeli obaj gracze grają optymalnie.
+na pytanie który gracz wygra grę jeżeli obaj gracze grają optymalnie. Zaimplementowany został tu algorytm MinMax - każdy gracz maksymalizuje swoją szansę na zwycięstwo wybierając tylko optymalne ruchy.
 
 ### Przykładowe polecenia:
 
